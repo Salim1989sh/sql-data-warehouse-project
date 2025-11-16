@@ -6,7 +6,7 @@ This project demonstrates the design and implementation of a complete data wareh
 ## 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
 
-### Objective
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1bc85317-aee2-4160-b367-6e4b3fd42272" /> Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 #### Specifications
@@ -22,3 +22,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ### 🌟 About Me
 I'm Salim Sharabati, learning Data Engineering i am new in this field and so exited to do a lot of projects and learn something new.
+
+

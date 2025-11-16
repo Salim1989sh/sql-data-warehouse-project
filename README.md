@@ -1,4 +1,4 @@
-#Data Warehouse and Analytic Project
+#### Data Warehouse and Analytic Project
 
 Welcome to Data Warehouse and Analytic Project repository!
 This project demonstrates the design and implementation of a complete data warehouse pipeline, including data modeling, ETL processes, and optimized storage layers to support scalable analytics and reporting, designed as a portfolio.

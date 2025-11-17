@@ -1,15 +1,10 @@
 /*
 USAGE EXAMPLE 
-USE DataWarehouse;
-GO
 
 EXEC bronze.load_bronze;
 GO
 
 */
-
-USE DataWarehouse;
-GO
 
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
 BEGIN
